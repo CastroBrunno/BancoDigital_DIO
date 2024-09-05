@@ -1,3 +1,6 @@
+package banco.conta;
+import banco.Cliente;
+
 public class ContaCorrente extends Conta{
 
     public ContaCorrente(Cliente cliente) {

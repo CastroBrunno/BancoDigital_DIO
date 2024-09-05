@@ -1,3 +1,7 @@
+package banco.conta;
+
+import banco.Cliente;
+
 public class Conta implements InterfaceConta{
 
     private static final int AGENCIA_PADRAO = 001;
